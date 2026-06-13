@@ -1,7 +1,6 @@
 class Soma < Formula
   desc "Local-first AI agent governance with verifiable, tamper-evident audit trails"
   homepage "https://github.com/radotsvetkov/soma"
-  version "0.2.0"
   license "Apache-2.0"
 
   on_macos do
